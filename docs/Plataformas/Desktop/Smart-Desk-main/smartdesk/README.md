@@ -1,4 +1,4 @@
-# HelpDesk (Frontend PyQt6 + API Skeleton)
+# SmartDesk (Frontend PyQt6 + API Skeleton)
 
 ## Requisitos
 - Python 3.11+
