@@ -17,10 +17,11 @@
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
 
+<div align="center">
+
 <a id="descricao-do-projeto"></a>
 [![📝 Descrição do Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/descricao-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/descricao-do-desafio.md)
   
-
 <a id="backlog-do-produto"></a>
 [![📦 Backlog do Produto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/backlog-do-produto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/backlog-do-produto.md)
 
@@ -42,6 +43,7 @@
 <a id="checklist-de-dod"></a>
 [![✅ Checklist de DoD](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/checklist-de-dod.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/checklist-de-dod.md)
 
-
 <a id="equipe"></a>
 [![👥 Equipe](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/equipe.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/equipe.md)
+
+</div>
