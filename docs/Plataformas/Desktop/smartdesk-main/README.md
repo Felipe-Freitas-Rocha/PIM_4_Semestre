@@ -8,8 +8,8 @@
 - E-mail: `admin@smartdesk.com`
 - Senha: `admin123`
 
-- E-mail (user): 'usuario@smartdesk.com'
-- Senha: : 'user123'
+- E-mail (user): `usuario@smartdesk.com`
+- Senha: : `user123`
 
 ## Estrutura
 Veja a pasta `frontend/` para o app desktop. A pasta `backend/` contém placeholders para a futura API.
