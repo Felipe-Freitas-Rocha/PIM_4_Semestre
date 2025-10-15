@@ -23,7 +23,7 @@
 [![📝 Descrição do Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/descricao-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/descricao-do-desafio.md)
   
 <a id="backlog-do-produto"></a>
-[![📦 Backlog do Produto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/backlog-do-produto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/backlog-do-produto.md)
+[![📦 Backlog do Produto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/backlog-do-produto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/backlog-do-produto.md)
 
 <a id="cronograma-de-sprints"></a>
 [![📅 Cronograma de Sprints](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/cronograma-de-sprints.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/cronograma-de-sprints.md)
