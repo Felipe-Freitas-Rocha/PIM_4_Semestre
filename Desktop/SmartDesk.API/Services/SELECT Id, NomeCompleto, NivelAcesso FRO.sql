@@ -1,0 +1,1 @@
+SELECT Id, NomeCompleto, NivelAcesso FROM Usuarios;

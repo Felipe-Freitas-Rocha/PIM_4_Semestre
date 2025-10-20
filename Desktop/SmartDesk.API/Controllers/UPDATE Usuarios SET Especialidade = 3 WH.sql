@@ -1,0 +1,1 @@
+UPDATE Usuarios SET Especialidade = 3 WHERE Id = 3; -- Define Carlos (Id 2) como especialista em Rede (valor 3)
