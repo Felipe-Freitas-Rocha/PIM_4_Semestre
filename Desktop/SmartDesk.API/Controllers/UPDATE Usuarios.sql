@@ -1,0 +1,3 @@
+UPDATE Usuarios
+SET SenhaHash = '$2a$11$uXPdC295JZVdvG9VHg1PEO4w98r6DQc92Gxo2PVkGFec86O.9cA0W'
+WHERE Id = 1;

@@ -1,0 +1,1 @@
+UPDATE Usuarios SET Especialidade = 3 WHERE Id = 3; -- CORRIGIDO: Define o Técnico (Id 3) como especialista em Rede (valor 3)
