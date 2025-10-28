@@ -9,5 +9,5 @@
 | 📌 SPRINT 6 | 24/09 | Integração da funcionalidade de IA. |
 | 📌 SPRINT 7 | 01/10 | Teste unitários e de integração. |
 | 📌 SPRINT 8 | 08/10 | Correção de bugs e ajustes de interface. |
-| 📌 SPRINT 9 | 15/10 | Documentação e preparação para entrega. |
-| 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
+| 📌 SPRINT 9 | 25/10 | Documentação e preparação para entrega. |
+| 📌 SPRINT 10 | 14/11| Entrega prevista do projeto 4. |
