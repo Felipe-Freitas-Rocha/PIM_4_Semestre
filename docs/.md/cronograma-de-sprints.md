@@ -8,11 +8,11 @@ Dessa forma, tanto a equipe de desenvolvimento quanto os interessados no projeto
 ## 🗂️ Tabela do Cronograma
 | 🏁 **Sprint** | 🗓️ **Período** | 📈 **Evolução (progresso)** | 📦 **Entrega (Resumo)** |
 |:-------------:|:--------------:|:---------------------------:|:------------------------|
-| **1** | 01/09 - 15/09 | ![30%](https://progress-bar.dev/30/?title=30%) | Tela de abertura de chamados |
-| **2** | 16/09 - 30/09 | ![10%](https://progress-bar.dev/10/?title=10%) | Listagem de chamados |
-| **3** | 01/10 - 15/10 | ![20%](https://progress-bar.dev/20/?title=20%) | Edição de chamados |
-| **4** | 16/10 - 31/10 | ![10%](https://progress-bar.dev/10/?title=10%) | Relatórios e exportação |
-| **5** | 01/11 - 15/11 | ![20%](https://progress-bar.dev/20/?title=20%) | Integração com IA |
+| **1** | 01/09 - 15/09 | ![30%](███░░░░░░░░ 30%) | Tela de abertura de chamados |
+| **2** | 16/09 - 30/09 | ![10%](█░░░░░░░░░░ 10%) | Listagem de chamados |
+| **3** | 01/10 - 15/10 | ![20%](██░░░░░░░░░ 20%) | Edição de chamados |
+| **4** | 16/10 - 31/10 | ![10%](█░░░░░░░░░░ 10%) | Relatórios e exportação |
+| **5** | 01/11 - 15/11 | ![20%](██░░░░░░░░░ 20%) | Integração com IA |
 
 ---
 
