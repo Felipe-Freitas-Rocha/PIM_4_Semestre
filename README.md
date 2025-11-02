@@ -22,7 +22,7 @@
 
 [![📝 Como Executar,usar e testar o projeto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/como-executar-o-projeto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/como-executar.md)
 
-[![🔗 Documentação](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/como-executar-o-projeto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/tree/main/docs)
+[![🔗 Documentação](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/documentacao.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/tree/main/docs)
 
 [![👥 Equipe](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/equipe.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/equipe.md)
 
