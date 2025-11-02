@@ -12,7 +12,7 @@
 >
 > Relatório de Testes: [PDF](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/relatorio-de-testes.md) 📄 **Em desenvolvimento**
 >
-> Pasta de Documentação: [Link](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/tree/main/docs/Documentação) 🔗 **Em desenvolvimento**
+> Pasta de Documentação: [Link](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/tree/main/docs) 🔗 **Em desenvolvimento**
 >
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
