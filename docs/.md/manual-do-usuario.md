@@ -73,4 +73,4 @@ Isso garante que apenas usuários autorizados possam alterar configurações cr�
 
 Para configurar e executar o sistema em seu ambiente de desenvolvimento, acesse o manual técnico completo:
 
-👉 [Manual de Instalação, Execução e Testes](./EXECUCAO_TESTES.md)
+👉 [Manual de Instalação, Execução e Testes](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/como-executar.md)
