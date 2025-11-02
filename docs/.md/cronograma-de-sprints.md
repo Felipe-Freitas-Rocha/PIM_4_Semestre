@@ -3,6 +3,7 @@ O cronograma de evolução mostra de forma clara e organizada o planejamento das
 Ele serve para acompanhar o progresso do projeto, definir prazos e garantir que cada sprint tenha um objetivo bem definido.
 Dessa forma, tanto a equipe de desenvolvimento quanto os interessados no projeto conseguem visualizar facilmente o andamento e as entregas.
 
+---
 
 ## 🗂️ Tabela do Cronograma
 | 🏁 **Sprint** | 🗓️ **Período** | 📈 **Evolução (progresso)** | 📦 **Entrega (Resumo)** |
