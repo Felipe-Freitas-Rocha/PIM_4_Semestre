@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![📝 Descrição do Projeto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/descricao-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/descricao-do-desafio.md)
+[![📝 Descrição do Desafio](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/descricao-do-desafio.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/descricao-do-desafio.md)
   
 [![📦 Backlog do Produto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/backlog-do-produto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/backlog-do-produto.md)
 
@@ -20,7 +20,7 @@
 
 [![📦 Estrutura do Projeto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/estrutura-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/estrutura-do-projeto.md)
 
-[![📝 Como Executar,usar e testar o projeto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/descricao-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/descricao-do-desafio.md)
+[![📝 Como Executar,usar e testar o projeto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/como-executar-o-projeto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/descricao-do-desafio.md)
  
 > Pasta de Documentação: [Link](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/tree/main/docs) 🔗
 
@@ -30,6 +30,6 @@
 
 [![✅ Checklist de DoD](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/checklist-de-dod.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/checklist-de-dod.md)
 
-[![📖 Manual de Usuário](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/manual-do-sistema.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/manual-de-instalacao.md)
+[![📖 Manual de Usuário](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/manual-do-usuario.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/manual-de-instalacao.md)
 
 </div>
