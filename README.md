@@ -30,6 +30,6 @@
 
 [![✅ Checklist de DoD](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/checklist-de-dod.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/checklist-de-dod.md)
 
-[![📖 Manual de Usuário](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/manual-do-usuario.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/manual-do-usuario)
+[![📖 Manual de Usuário](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/manual-do-usuario.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/manual-do-usuario.md)
 
 </div>
