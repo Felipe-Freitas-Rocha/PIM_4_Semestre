@@ -6,7 +6,7 @@ Siga os passos abaixo para configurar e executar o projeto **SmartDesk** em um a
 
 ## 🧰 **Pré-requisitos**
 
-Certifique-se de ter as seguintes ferramentas instaladas:
+-Certifique-se de ter as seguintes ferramentas instaladas:
 
 1. **.NET 8 SDK** (para o Backend)  
 2. **SQL Server Express** (para o Banco de Dados)  
@@ -28,7 +28,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
     ```
 
 3. **Crie o Banco de Dados:**  
-   Este comando irá ler o código e criar o banco `SmartDeskDB` automaticamente.
+   -Este comando irá ler o código e criar o banco `SmartDeskDB` automaticamente.
     ```bash
     dotnet ef database update
     ```
@@ -37,15 +37,15 @@ Certifique-se de ter as seguintes ferramentas instaladas:
     ```bash
     dotnet run
     ```
-    A API estará rodando em `http://localhost:5201`.  
-    Deixe este terminal aberto enquanto executa o frontend.
+    -A API estará rodando em `http://localhost:5201`.  
+    -Deixe este terminal aberto enquanto executa o frontend.
 
 ---
 
 ## 💻 **2. Configuração do Frontend**
 
 1. **Navegue até a pasta do frontend:**  
-   Em um **novo terminal**, vá para a pasta correspondente.
+   -Em um **novo terminal**, vá para a pasta correspondente.
     ```bash
     cd ../frontend
     ```
@@ -65,7 +65,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ## 🧪 **3. Primeiro Uso e Testes**
 
 1. **Crie o Usuário Administrador:**  
-   Como o banco de dados começa vazio, é necessário criar o primeiro Admin.
+   -Como o banco de dados começa vazio, é necessário criar o primeiro Admin.
    - Com a API rodando, acesse o Swagger em:  
      `http://localhost:5201/swagger`
    - Vá até o endpoint `POST /api/usuarios`, clique em **"Try it out"** e execute com o corpo abaixo:
