@@ -13,6 +13,8 @@ Dessa forma, tanto a equipe de desenvolvimento quanto os interessados no projeto
 | **4** | 16/10 - 31/10 | ![10%](https://progress-bar.dev/10/?title=10%) | Relatórios e exportação |
 | **5** | 01/11 - 15/11 | ![20%](https://progress-bar.dev/20/?title=20%) | Integração com IA |
 
+---
+
 - 🏁 **Sprint 1 (01/09 - 15/09) — 🖥️ Tela de abertura de chamados**
 O foco inicial é criar a tela que permitirá ao usuário registrar novos chamados.
 Essa etapa é essencial pois estabelece a base do sistema, garantindo que as solicitações sejam registradas desde o início.
