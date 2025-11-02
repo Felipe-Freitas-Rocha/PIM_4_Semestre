@@ -14,7 +14,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre]
+    git clone [https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre.git](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre.git)
     ```
 2.  **Navegue até a pasta do backend:**
     ```bash
