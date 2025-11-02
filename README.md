@@ -12,9 +12,9 @@
   
 [![📦 Backlog do Produto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/backlog-do-produto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/backlog-do-produto.md)
 
-[![📅 Cronograma de Sprints](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/cronograma-de-sprints.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/cronograma-de-sprints.md)
+[![📅 Cronograma de Evolução](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/cronograma-de-sprints.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/cronograma-de-sprints.md)
 
-> Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
+[![📅 Sprints descritivas](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/cronograma-de-sprints.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/tabela-descritiva-das-sprints.md)
 
 [![💻 Tecnologias Utilizadas](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/tecnologias-utilizadas.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/tecnologias-utilizadas.md)
 
