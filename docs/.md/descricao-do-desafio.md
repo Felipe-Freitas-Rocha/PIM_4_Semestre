@@ -1,4 +1,4 @@
-# 📝 Descrição do Projeto
+# 📝 Descrição do Desafio
 -Este projeto consiste no desenvolvimento de um sistema integrado de suporte técnico (Helpdesk) para uma empresa de médio porte, visando otimizar o atendimento de solicitações internas do setor de TI.
 
 -Atualmente, todas as requisições são recebidas por e-mail ou telefone, o que gera:
