@@ -12,7 +12,7 @@
   
 [![📦 Backlog do Produto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/backlog-do-produto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/backlog-do-produto.md)
 
-[![📅 Cronograma de Evolução](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/cronograma-de-sprints.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/cronograma-de-sprints.md)
+[![📅 Cronograma de Evolução](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/cronograma-de-evolucao.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/cronograma-de-sprints.md)
 
 [![📅 Sprints descritivas](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/sprints-descritivas.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/tabela-descritiva-das-sprints.md)
 
