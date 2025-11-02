@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Status do Projeto: Em processo 🟡
+> Status do Projeto: Em processo 🟡
 
 [![📝 Descrição do Projeto](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/img/descricao-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/PIM_4_Semestre/blob/main/docs/.md/descricao-do-desafio.md)
   
