@@ -8,7 +8,6 @@
 
 ## 💡 Solução Proposta
 -A solução proposta é um **sistema integrado de suporte técnico com Inteligência Artificial**, composta por um backend (API) e múltiplos front-end (Desktop, Web e Mobile).
-
 -Os colaboradores podem registrar suas solicitações diretamente no sistema, permitindo um controle total do ciclo de vida de cada chamado.
 
 -A Inteligência Artificial faz triagem do chamado e é responsável por:
